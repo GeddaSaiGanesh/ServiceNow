@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>impact</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>priorityField</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+	 g_form.setValue('priority','5');
+      return;
+   }
+   var imp_val=parseInt(g_form.getValue('impact'));
+   var urg_value=parseInt(g_form.getValue('urgency'));
+   var pri_value=Math.round((imp_val+urg_value)/2);
+   g_form.setValue('priority',pri_value.toString());
+   
+
+   //Type appropriate comment here, and begin script below
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 10:00:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9788045c939402102f61b55f7bba1098</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>priorityField</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope>
+        <sys_update_name>sys_script_client_9788045c939402102f61b55f7bba1098</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 13:43:14</sys_updated_on>
+        <table>x_1259095_custom_a_incident_task</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</application>
+        <file_path/>
+        <instance_id>f27780c11be63158c84543f4bd4bcb54</instance_id>
+        <instance_name>dev211221</instance_name>
+        <name>sys_script_client_9788045c939402102f61b55f7bba1098</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;impact&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;priorityField&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+	 g_form.setValue('priority','5');
+      return;
+   }
+   var imp_val=parseInt(g_form.getValue('impact'));
+   var urg_value=parseInt(g_form.getValue('urgency'));
+   var pri_value=Math.round((imp_val+urg_value)/2);
+   g_form.setValue('priority',pri_value.toString());
+   
+
+   //Type appropriate comment here, and begin script below
+   
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-02-07 10:00:34&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;9788045c939402102f61b55f7bba1098&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;priorityField&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Custom Application" source="x_1259095_custom_a"&gt;7b86cf80935002102f61b55f7bba10d7&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Custom Application"&gt;7b86cf80935002102f61b55f7bba10d7&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_9788045c939402102f61b55f7bba1098&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-02-07 13:43:14&lt;/sys_updated_on&gt;&lt;table&gt;x_1259095_custom_a_incident_task&lt;/table&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1401996990</payload_hash>
+        <record_name>priorityField</record_name>
+        <reverted_from/>
+        <source>b3868f0c935002102f61b55f7bba109f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 13:43:14</sys_created_on>
+        <sys_id>28db745c939802102f61b55f7bba109d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d83cef2920000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 13:43:14</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>20db745c72980210d17f810ac3d3669d</update_guid>
+        <update_guid_history>20db745c72980210d17f810ac3d3669d:-1401996990,b07a0c5c6c9402105da995a6ec357c96:2031055413,d30a809c2094021023fbfcd40f287a14:-1152473221,03d9085c7d9402102f6abe9c7745fc4f:-740512388,b2d8005c4d940210441fd7ea126e2a29:-1104936433</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:02:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>773863ed437248008b8c643d46900000</sys_id>
+        <sys_metadata>9788045c939402102f61b55f7bba1098</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>priorityField</sys_name>
+        <sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package>
+        <sys_parent display_value="Incident Task">16674f4c935002102f61b55f7bba10f7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope>
+        <sys_scope_delete display_value="">214ace11fc574c8a8d0c78e29665ccd1</sys_scope_delete>
+        <sys_update_name>sys_script_client_9788045c939402102f61b55f7bba1098</sys_update_name>
+        <sys_update_version display_value="sys_script_client_9788045c939402102f61b55f7bba1098">28db745c939802102f61b55f7bba109d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:02:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

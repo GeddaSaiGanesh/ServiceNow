@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_res_context_config">
+    <cxs_res_context_config action="DELETE">
+        <active>true</active>
+        <cxs_context_config display_value="custom Incidents">c967c5e8935c42102f61b55f7bba10ff</cxs_context_config>
+        <cxs_search_res_config display_value="Catalog Items">c6eb806def32210066fc36caa5c0fbf7</cxs_search_res_config>
+        <default_search>false</default_search>
+        <name>catalog</name>
+        <order>100</order>
+        <search_operator>IR_AND_OR_QUERY</search_operator>
+        <sys_class_name>cxs_res_context_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-08 09:28:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a51b8120939c42102f61b55f7bba102d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>custom Incidents.Catalog Items</sys_name>
+        <sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope>
+        <sys_update_name>cxs_res_context_config_a51b8120939c42102f61b55f7bba102d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-08 09:28:24</sys_updated_on>
+    </cxs_res_context_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</application>
+        <file_path/>
+        <instance_id>f27780c11be63158c84543f4bd4bcb54</instance_id>
+        <instance_name>dev211221</instance_name>
+        <name>cxs_res_context_config_a51b8120939c42102f61b55f7bba102d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_res_context_config"><cxs_res_context_config action="INSERT_OR_UPDATE"><active>true</active><cxs_context_config display_value="custom Incidents">c967c5e8935c42102f61b55f7bba10ff</cxs_context_config><cxs_search_res_config display_value="Catalog Items">c6eb806def32210066fc36caa5c0fbf7</cxs_search_res_config><default_search>false</default_search><name>catalog</name><order>100</order><search_operator>IR_AND_OR_QUERY</search_operator><sys_class_name>cxs_res_context_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-08 09:28:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a51b8120939c42102f61b55f7bba102d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>custom Incidents.Catalog Items</sys_name><sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package><sys_policy/><sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope><sys_update_name>cxs_res_context_config_a51b8120939c42102f61b55f7bba102d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-08 09:28:24</sys_updated_on></cxs_res_context_config></record_update>]]></payload>
+        <payload_hash>-581440425</payload_hash>
+        <record_name>catalog</record_name>
+        <reverted_from/>
+        <source>b3868f0c935002102f61b55f7bba109f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-08 09:28:24</sys_created_on>
+        <sys_id>691b8120939c42102f61b55f7bba102f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d880c01f70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-08 09:28:24</sys_updated_on>
+        <type>Resource Configuration</type>
+        <update_guid>ad1b81206f9c42109210209354be502e</update_guid>
+        <update_guid_history>ad1b81206f9c42109210209354be502e:-581440425</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="catalog">316b8920939c42102f61b55f7bba1079</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-08 09:29:47</sys_created_on>
+        <sys_db_object display_value="" name="cxs_res_context_config">cxs_res_context_config</sys_db_object>
+        <sys_id>7fdac079969d4202b360676da303f489</sys_id>
+        <sys_metadata>a51b8120939c42102f61b55f7bba102d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>custom Incidents.Catalog Items</sys_name>
+        <sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope>
+        <sys_scope_delete display_value="">214ace11fc574c8a8d0c78e29665ccd1</sys_scope_delete>
+        <sys_update_name>cxs_res_context_config_a51b8120939c42102f61b55f7bba102d</sys_update_name>
+        <sys_update_version display_value="cxs_res_context_config_a51b8120939c42102f61b55f7bba102d">691b8120939c42102f61b55f7bba102f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-08 09:29:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

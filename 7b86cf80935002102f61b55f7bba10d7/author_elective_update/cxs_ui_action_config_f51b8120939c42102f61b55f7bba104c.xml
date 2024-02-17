@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cxs_ui_action_config">
+    <cxs_ui_action_config action="DELETE">
+        <action_condition/>
+        <action_label>Attach</action_label>
+        <action_undo_label/>
+        <action_value>attach</action_value>
+        <active>true</active>
+        <advanced_visibility>false</advanced_visibility>
+        <attach_note_field>comments</attach_note_field>
+        <attachment_type>embed_link</attachment_type>
+        <badge_label>Attached</badge_label>
+        <current_action_condition/>
+        <current_table/>
+        <order>300</order>
+        <rest_api/>
+        <search_res_config/>
+        <search_resource display_value="">com.snc.contextual_search.search_resource.PinnedArticleSearchResource</search_resource>
+        <search_ui_action display_value="Attach">d587f286872a0300692cbba826cb0b6a</search_ui_action>
+        <search_ui_config display_value="Incident Task [x_1259095_custom_a_incident_task]">f0e7412c935c42102f61b55f7bba1090</search_ui_config>
+        <show_on_new>false</show_on_new>
+        <sys_class_name>cxs_ui_action_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-08 09:28:25</sys_created_on>
+        <sys_id>f51b8120939c42102f61b55f7bba104c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attach</sys_name>
+        <sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope>
+        <sys_update_name>cxs_ui_action_config_f51b8120939c42102f61b55f7bba104c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-08 09:28:25</sys_updated_on>
+        <table>kb_knowledge</table>
+        <trend_recommendation/>
+        <ui_action_visibility_script/>
+        <use_custom_field_for_attach>false</use_custom_field_for_attach>
+    </cxs_ui_action_config>
+    <sys_translated_text action="DELETE" query="documentkey=f51b8120939c42102f61b55f7bba104c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</application>
+        <file_path/>
+        <instance_id>f27780c11be63158c84543f4bd4bcb54</instance_id>
+        <instance_name>dev211221</instance_name>
+        <name>cxs_ui_action_config_f51b8120939c42102f61b55f7bba104c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cxs_ui_action_config"><cxs_ui_action_config action="INSERT_OR_UPDATE"><action_condition/><action_label>Attach</action_label><action_undo_label/><action_value>attach</action_value><active>true</active><advanced_visibility>false</advanced_visibility><attach_note_field>comments</attach_note_field><attachment_type>embed_link</attachment_type><badge_label>Attached</badge_label><current_action_condition/><current_table/><order>300</order><rest_api/><search_res_config/><search_resource display_value="">com.snc.contextual_search.search_resource.PinnedArticleSearchResource</search_resource><search_ui_action display_value="Attach">d587f286872a0300692cbba826cb0b6a</search_ui_action><search_ui_config display_value="Incident Task [x_1259095_custom_a_incident_task]">f0e7412c935c42102f61b55f7bba1090</search_ui_config><show_on_new>false</show_on_new><sys_class_name>cxs_ui_action_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-08 09:28:25</sys_created_on><sys_id>f51b8120939c42102f61b55f7bba104c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Attach</sys_name><sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package><sys_policy/><sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope><sys_update_name>cxs_ui_action_config_f51b8120939c42102f61b55f7bba104c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-08 09:28:25</sys_updated_on><table>kb_knowledge</table><trend_recommendation/><ui_action_visibility_script/><use_custom_field_for_attach>false</use_custom_field_for_attach></cxs_ui_action_config><sys_translated_text action="delete_multiple" query="documentkey=f51b8120939c42102f61b55f7bba104c"/></record_update>]]></payload>
+        <payload_hash>-1524189132</payload_hash>
+        <record_name>Attach</record_name>
+        <reverted_from/>
+        <source>b3868f0c935002102f61b55f7bba109f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-08 09:28:25</sys_created_on>
+        <sys_id>791b8120939c42102f61b55f7bba104e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d880c02e10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-08 09:28:25</sys_updated_on>
+        <type>Search Action Configuration</type>
+        <update_guid>bd1b8120af9c4210111fce087247374d</update_guid>
+        <update_guid_history>bd1b8120af9c4210111fce087247374d:-1524189132</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Attach">356b8920939c42102f61b55f7bba1091</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-08 09:29:47</sys_created_on>
+        <sys_db_object display_value="" name="cxs_ui_action_config">cxs_ui_action_config</sys_db_object>
+        <sys_id>be33dc5a3724424a88731bafdbb68ab1</sys_id>
+        <sys_metadata>f51b8120939c42102f61b55f7bba104c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attach</sys_name>
+        <sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope>
+        <sys_scope_delete display_value="">214ace11fc574c8a8d0c78e29665ccd1</sys_scope_delete>
+        <sys_update_name>cxs_ui_action_config_f51b8120939c42102f61b55f7bba104c</sys_update_name>
+        <sys_update_version display_value="cxs_ui_action_config_f51b8120939c42102f61b55f7bba104c">791b8120939c42102f61b55f7bba104e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-08 09:29:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

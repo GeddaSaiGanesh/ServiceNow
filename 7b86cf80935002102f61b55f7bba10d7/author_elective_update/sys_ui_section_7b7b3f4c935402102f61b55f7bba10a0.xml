@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="7b7b3f4c935402102f61b55f7bba10a0" sys_domain="global" table="x_1259095_custom_a_incident_task" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_resolve_time</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 09:02:12</sys_created_on>
+            <sys_id>408b7f4c935402102f61b55f7bba103f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1259095_custom_a_incident_task" sys_domain="global" view="Default view">7b7b3f4c935402102f61b55f7bba10a0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 09:02:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 09:02:12</sys_created_on>
+            <sys_id>c08b7f4c935402102f61b55f7bba103f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1259095_custom_a_incident_task" sys_domain="global" view="Default view">7b7b3f4c935402102f61b55f7bba10a0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 09:02:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 09:02:12</sys_created_on>
+            <sys_id>448b7f4c935402102f61b55f7bba103f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1259095_custom_a_incident_task" sys_domain="global" view="Default view">7b7b3f4c935402102f61b55f7bba10a0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 09:02:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 09:02:12</sys_created_on>
+            <sys_id>c48b7f4c935402102f61b55f7bba103f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1259095_custom_a_incident_task" sys_domain="global" view="Default view">7b7b3f4c935402102f61b55f7bba10a0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 09:02:12</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_1259095_custom_a_incident_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 09:02:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b7b3f4c935402102f61b55f7bba10a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1259095_custom_a_incident_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope>
+            <sys_update_name>sys_ui_section_7b7b3f4c935402102f61b55f7bba10a0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 09:02:11</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</application>
+        <file_path/>
+        <instance_id>f27780c11be63158c84543f4bd4bcb54</instance_id>
+        <instance_name>dev211221</instance_name>
+        <name>sys_ui_section_7b7b3f4c935402102f61b55f7bba10a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="7b7b3f4c935402102f61b55f7bba10a0" sys_domain="global" table="x_1259095_custom_a_incident_task" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>business_resolve_time</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-07 09:02:12</sys_created_on><sys_id>408b7f4c935402102f61b55f7bba103f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1259095_custom_a_incident_task" sys_domain="global" view="Default view">7b7b3f4c935402102f61b55f7bba10a0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-07 09:02:12</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-07 09:02:12</sys_created_on><sys_id>c08b7f4c935402102f61b55f7bba103f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1259095_custom_a_incident_task" sys_domain="global" view="Default view">7b7b3f4c935402102f61b55f7bba10a0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-07 09:02:12</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-07 09:02:12</sys_created_on><sys_id>448b7f4c935402102f61b55f7bba103f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1259095_custom_a_incident_task" sys_domain="global" view="Default view">7b7b3f4c935402102f61b55f7bba10a0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-07 09:02:12</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cxs_table_search.xml</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-07 09:02:12</sys_created_on><sys_id>c48b7f4c935402102f61b55f7bba103f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter><sys_ui_section caption="New Section" display_value="New Section" name="x_1259095_custom_a_incident_task" sys_domain="global" view="Default view">7b7b3f4c935402102f61b55f7bba10a0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-07 09:02:12</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_1259095_custom_a_incident_task</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-07 09:02:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7b7b3f4c935402102f61b55f7bba10a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1259095_custom_a_incident_task</sys_name><sys_overrides/><sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package><sys_policy/><sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope><sys_update_name>sys_ui_section_7b7b3f4c935402102f61b55f7bba10a0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-07 09:02:11</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-867611825</payload_hash>
+        <record_name>Incident Task</record_name>
+        <reverted_from/>
+        <source>b3868f0c935002102f61b55f7bba109f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 09:02:12</sys_created_on>
+        <sys_id>088b7f4c935402102f61b55f7bba1041</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d82cda9e90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 09:02:12</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>8c8b7f4c7b54021015b5aea55f057b40</update_guid>
+        <update_guid_history>8c8b7f4c7b54021015b5aea55f057b40:-867611825</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 09:14:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>2a4a1a85be66439f93ecec9d3f819c49</sys_id>
+        <sys_metadata>7b7b3f4c935402102f61b55f7bba10a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package>
+        <sys_parent display_value="Incident Task">16674f4c935002102f61b55f7bba10f7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope>
+        <sys_scope_delete display_value="">214ace11fc574c8a8d0c78e29665ccd1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_7b7b3f4c935402102f61b55f7bba10a0</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_7b7b3f4c935402102f61b55f7bba10a0">088b7f4c935402102f61b55f7bba1041</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 09:14:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

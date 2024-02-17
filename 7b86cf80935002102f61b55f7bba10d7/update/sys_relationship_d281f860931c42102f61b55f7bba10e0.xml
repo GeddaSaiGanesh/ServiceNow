@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_1259095_custom_a_incident_task</basic_apply_to>
+        <basic_query_from>x_1259095_custom_a_incident_task</basic_query_from>
+        <insert_callback/>
+        <name>child Incident</name>
+        <query_from/>
+        <query_with><![CDATA[current.addQuery('parent_incident', parent.sys_id);]]></query_with>
+        <reference_field>parent_incident</reference_field>
+        <related_list/>
+        <simple_reference>true</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-08 07:39:26</sys_created_on>
+        <sys_id>d281f860931c42102f61b55f7bba10e0</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>child Incident</sys_name>
+        <sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope>
+        <sys_update_name>sys_relationship_d281f860931c42102f61b55f7bba10e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-08 07:53:12</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="delete_multiple" query="documentkey=d281f860931c42102f61b55f7bba10e0"/>
+</record_update>

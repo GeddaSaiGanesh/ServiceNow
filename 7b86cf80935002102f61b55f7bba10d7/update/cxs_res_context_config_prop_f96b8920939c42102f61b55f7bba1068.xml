@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_res_context_config_prop">
+    <cxs_res_context_config_prop action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <choices/>
+        <cxs_res_context_config display_value="catalog">3d6b8920939c42102f61b55f7bba1063</cxs_res_context_config>
+        <default_value>IR_AND_OR_QUERY</default_value>
+        <description>Instructs Zing how to interegate the search string. The value may only be one of the following: 'IR_AND_QUERY', 'IR_AND_OR_QUERY' or 'IR_OR_QUERY'</description>
+        <id>catalog_sr.search_operator</id>
+        <name>Search Operator</name>
+        <sys_class_name>cxs_res_context_config_prop</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-08 09:29:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f96b8920939c42102f61b55f7bba1068</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search Operator</sys_name>
+        <sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope>
+        <sys_update_name>cxs_res_context_config_prop_f96b8920939c42102f61b55f7bba1068</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-08 09:29:47</sys_updated_on>
+        <type>choice</type>
+        <value>IR_AND_OR_QUERY</value>
+    </cxs_res_context_config_prop>
+</record_update>

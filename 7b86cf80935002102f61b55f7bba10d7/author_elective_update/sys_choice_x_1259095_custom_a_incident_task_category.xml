@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="category" table="x_1259095_custom_a_incident_task" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <name>x_1259095_custom_a_incident_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 06:10:50</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>category</sys_name>
+            <sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope>
+            <sys_update_name>sys_choice_x_1259095_custom_a_incident_task_category</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 06:10:50</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inquiry/Help</label>
+            <language>en</language>
+            <name>x_1259095_custom_a_incident_task</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 06:10:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:30:28</sys_updated_on>
+            <value>inquiry/help</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Software</label>
+            <language>en</language>
+            <name>x_1259095_custom_a_incident_task</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 06:11:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:30:38</sys_updated_on>
+            <value>software</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Network</label>
+            <language>en</language>
+            <name>x_1259095_custom_a_incident_task</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 06:11:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:30:41</sys_updated_on>
+            <value>network</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hardware</label>
+            <language>en</language>
+            <name>x_1259095_custom_a_incident_task</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 06:11:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:30:45</sys_updated_on>
+            <value>hardware</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Database</label>
+            <language>en</language>
+            <name>x_1259095_custom_a_incident_task</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 06:11:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 10:30:48</sys_updated_on>
+            <value>database</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

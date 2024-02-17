@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>number</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-09 04:18:03</sys_created_on>
+        <sys_id>589d45f4931002102f61b55f7bba1041</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>number</sys_name>
+        <sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope>
+        <sys_update_name>sys_ui_policy_action_589d45f4931002102f61b55f7bba1041</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-09 04:18:03</sys_updated_on>
+        <table>x_1259095_custom_a_incident_task</table>
+        <ui_policy display_value="read only fields when state is close and canceled">e30d89b4931002102f61b55f7bba10bc</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
