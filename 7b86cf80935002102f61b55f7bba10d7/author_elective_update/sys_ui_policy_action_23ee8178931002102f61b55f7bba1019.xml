@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>resolved_code</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-09 04:23:57</sys_created_on>
+        <sys_id>23ee8178931002102f61b55f7bba1019</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>resolved_code</sys_name>
+        <sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope>
+        <sys_update_name>sys_ui_policy_action_23ee8178931002102f61b55f7bba1019</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-09 04:23:57</sys_updated_on>
+        <table>x_1259095_custom_a_incident_task</table>
+        <ui_policy display_value="read only fields when state is close and canceled">e30d89b4931002102f61b55f7bba10bc</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</application>
+        <file_path/>
+        <instance_id>f27780c11be63158c84543f4bd4bcb54</instance_id>
+        <instance_name>dev211221</instance_name>
+        <name>sys_ui_policy_action_23ee8178931002102f61b55f7bba1019</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>true</disabled><field>resolved_code</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-09 04:23:57</sys_created_on><sys_id>23ee8178931002102f61b55f7bba1019</sys_id><sys_mod_count>0</sys_mod_count><sys_name>resolved_code</sys_name><sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package><sys_policy/><sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope><sys_update_name>sys_ui_policy_action_23ee8178931002102f61b55f7bba1019</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-09 04:23:57</sys_updated_on><table>x_1259095_custom_a_incident_task</table><ui_policy display_value="read only fields when state is close and canceled">e30d89b4931002102f61b55f7bba10bc</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-15044089</payload_hash>
+        <record_name>resolved_code</record_name>
+        <reverted_from/>
+        <source>b3868f0c935002102f61b55f7bba109f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-09 04:23:57</sys_created_on>
+        <sys_id>73fec178931002102f61b55f7bba1077</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d8c1ba2750000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-09 04:23:57</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>b7fec17886100210b1b03251f6b97676</update_guid>
+        <update_guid_history>b7fec17886100210b1b03251f6b97676:-15044089</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-09 05:47:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>b7e2f49f861349269fb17643e884ece4</sys_id>
+        <sys_metadata>23ee8178931002102f61b55f7bba1019</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>resolved_code</sys_name>
+        <sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package>
+        <sys_parent display_value="read only fields when state is close and canceled">e30d89b4931002102f61b55f7bba10bc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope>
+        <sys_scope_delete display_value="">214ace11fc574c8a8d0c78e29665ccd1</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_23ee8178931002102f61b55f7bba1019</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_23ee8178931002102f61b55f7bba1019">73fec178931002102f61b55f7bba1077</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-09 05:47:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

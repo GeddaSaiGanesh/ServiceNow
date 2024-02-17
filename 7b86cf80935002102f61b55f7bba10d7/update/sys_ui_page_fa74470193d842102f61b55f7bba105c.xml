@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script><![CDATA[document.getElementById("Emailform").addEventListener("click", function(event){
+  event.preventDefault()
+});]]></client_script>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_1259095_custom_a_testing.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+<g:requires name="angular.min.jsdbx"/>
+	<form id="Emailform">
+  <div class="form-group">
+    <label for="exampleInputEmail1">Subject</label>
+    <input type="text" class="form-control" />
+  </div>
+  <div class="form-group">
+    <label for="exampleInputPassword1">Add participants</label>
+    <input type="email" class="form-control" id="exampleInputPassword1"/>
+  </div>
+  <div class="form-group">
+    <label for="exampleInputFile">Inculde a brief message for participants</label>
+	<textarea class="form-control" rows="3"></textarea>
+  </div>
+  <div class="d-flex flex-row">
+  <button class="btn btn-default" type="submit" >Cancel</button>
+  <button class="btn btn-primary" type="submit">Start discussion</button>
+  </div>
+</form>
+</j:jelly>]]></html>
+        <name>testing</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-10 07:37:52</sys_created_on>
+        <sys_id>fa74470193d842102f61b55f7bba105c</sys_id>
+        <sys_mod_count>17</sys_mod_count>
+        <sys_name>testing</sys_name>
+        <sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope>
+        <sys_update_name>sys_ui_page_fa74470193d842102f61b55f7bba105c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-10 09:51:20</sys_updated_on>
+    </sys_ui_page>
+</record_update>

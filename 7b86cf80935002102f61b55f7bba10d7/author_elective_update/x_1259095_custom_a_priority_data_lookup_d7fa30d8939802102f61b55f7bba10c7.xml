@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1259095_custom_a_priority_data_lookup">
+    <x_1259095_custom_a_priority_data_lookup action="DELETE">
+        <active>true</active>
+        <impact>1</impact>
+        <order>100</order>
+        <priority>2</priority>
+        <sys_class_name>x_1259095_custom_a_priority_data_lookup</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 13:39:46</sys_created_on>
+        <sys_id>d7fa30d8939802102f61b55f7bba10c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope>
+        <sys_update_name>x_1259095_custom_a_priority_data_lookup_d7fa30d8939802102f61b55f7bba10c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 13:39:46</sys_updated_on>
+        <urgency>1</urgency>
+    </x_1259095_custom_a_priority_data_lookup>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</application>
+        <file_path/>
+        <instance_id>f27780c11be63158c84543f4bd4bcb54</instance_id>
+        <instance_name>dev211221</instance_name>
+        <name>x_1259095_custom_a_priority_data_lookup_d7fa30d8939802102f61b55f7bba10c7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1259095_custom_a_priority_data_lookup"><x_1259095_custom_a_priority_data_lookup action="INSERT_OR_UPDATE"><active>true</active><impact>1</impact><order>100</order><priority>2</priority><sys_class_name>x_1259095_custom_a_priority_data_lookup</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-07 13:39:46</sys_created_on><sys_id>d7fa30d8939802102f61b55f7bba10c7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>100</sys_name><sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package><sys_policy/><sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope><sys_update_name>x_1259095_custom_a_priority_data_lookup_d7fa30d8939802102f61b55f7bba10c7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-07 13:39:46</sys_updated_on><urgency>1</urgency></x_1259095_custom_a_priority_data_lookup></record_update>]]></payload>
+        <payload_hash>-527518894</payload_hash>
+        <record_name>100</record_name>
+        <reverted_from/>
+        <source>b3868f0c935002102f61b55f7bba109f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 13:39:46</sys_created_on>
+        <sys_id>790b341c939802102f61b55f7bba10b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d83cbc6500000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 13:39:46</sys_updated_on>
+        <type>Priority Data Lookup</type>
+        <update_guid>bd0b341cc9980210bb1e29d13f704fb4</update_guid>
+        <update_guid_history>bd0b341cc9980210bb1e29d13f704fb4:-527518894</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="100">8f2bbcd8939802102f61b55f7bba105d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 13:40:24</sys_created_on>
+        <sys_db_object display_value="" name="x_1259095_custom_a_priority_data_lookup">x_1259095_custom_a_priority_data_lookup</sys_db_object>
+        <sys_id>6b3c426a75744c4a9581629fd94272e9</sys_id>
+        <sys_metadata>d7fa30d8939802102f61b55f7bba10c7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Custom Application" source="x_1259095_custom_a">7b86cf80935002102f61b55f7bba10d7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application">7b86cf80935002102f61b55f7bba10d7</sys_scope>
+        <sys_scope_delete display_value="">214ace11fc574c8a8d0c78e29665ccd1</sys_scope_delete>
+        <sys_update_name>x_1259095_custom_a_priority_data_lookup_d7fa30d8939802102f61b55f7bba10c7</sys_update_name>
+        <sys_update_version display_value="x_1259095_custom_a_priority_data_lookup_d7fa30d8939802102f61b55f7bba10c7">790b341c939802102f61b55f7bba10b5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 13:40:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
